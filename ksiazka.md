@@ -2,3 +2,7 @@
 
 Student: Dominik Młynarczyk
 Szkoła: infoShare Academy
+
+## Wprowadzenie do Gita
+
+Git to system kontroli wersji.
